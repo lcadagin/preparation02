@@ -138,7 +138,7 @@ workflow for this course.
     drop-down menu);
 2.  Click on **Version Control** on the *New Project Wizard* pop-up;
 3.  Click on **Git** and you should be on a “Clone Git Repository” page;
-4.  Back to your `preparation02` GitHub repo, click on the gren **Code**
+4.  Back to your `preparation02` GitHub repo, click on the green **Code**
     button near the top of the page;
 5.  Verify that **HTTPS** is underlined in red on the pop-down, then
     copy the URL provided;
@@ -147,7 +147,7 @@ workflow for this course.
     populated with `preparation02`. If yours did not, click into this
     box and press Ctrl/Cmd (usually this is a Mac issue);
 8.  In the “Create project as subdirectory of” field, click on
-    **Browse…**. Create a **New Folder** called “STA 418” of “STA 518”
+    **Browse…**. Create a **New Folder** called “STA 418” or “STA 518”
     (depending on your course), then within this folder, create a **New
     Folder** called “Preparations”, think click **Choose**. Note that I
     am forcing you to use my file system management style.
